@@ -36,3 +36,8 @@ Playmaker actions for Graphway
 
 
 ![image alt](https://github.com/Darkhitori/Graphway/blob/accf74df47d095322253c2c559c6b31222eb809d/Screenshot%202024-10-04%20160843.png)
+
+
+
+
+![image alt](https://github.com/Darkhitori/Graphway/blob/748ea2dfc0788489dcb6cd506b892d27380d9448/Screenshot%202024-10-04%20161244.png)
